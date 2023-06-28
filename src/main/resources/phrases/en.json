@@ -2,7 +2,7 @@
   "results": "Results",
   "environment": "Environment",
   "comment": "Comment",
-  "reportAvailableAtLink": "Report available at the link",
+  "reportAvailableAtLink": "Report link",
   "scenario": {
     "duration": "Duration",
     "totalScenarios": "Total scenarios",
